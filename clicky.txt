@@ -1,0 +1,11 @@
+My psudeo code
+
+// create a clicky game.
+// it clicks.
+// it uses react.
+// front end must be nice.
+// must be pushed to heroku.
+// must have a button to click that has a function that fires.
+//  a import and export.
+// i will create the app. once i have a lil for freetime.
+As of now, im creating pushing to submit something. thanks.
